@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.thelazyadministrator.com/wp-content/uploads/2025/01/nicewall-removebg.png" alt="description of image">
+  <img src="https://www.thelazyadministrator.com/wp-content/uploads/2025/01/nicewall-removebg.png" alt="description of image" width="600">
 </p>
 
 <div align="center">
