@@ -61,7 +61,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bradleywy
 
 If you find my work helpful, please consider:
 
-<a href="https://www.buymeacoffee.com/bwya77">
+<a href="https://www.buymeacoffee.com/bwya77" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 <a href="https://github.com/sponsors/bwya77">
