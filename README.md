@@ -37,7 +37,7 @@
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
   - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
 
-### 🧑‍💻 Programming & Scripting
+### [![pixel_cat_typing](https://cdn3.emoji.gg/emojis/1188-pixel-cat-typing.gif)](https://emoji.gg/emoji/1188-pixel-cat-typing) Programming & Scripting
 - ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) Automation & System Administration
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Scripting & Development
 - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) Obsidian Development
