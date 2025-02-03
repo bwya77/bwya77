@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=for-the-badge" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </div>
 
 ## 👥 Visitor Count
