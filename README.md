@@ -3,6 +3,10 @@
   <img src="https://www.thelazyadministrator.com/wp-content/uploads/2025/01/nicewall-removebg.png" alt="description of image" width="600">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bwya77&style=flat-square" alt="Profile views" />
+</p>
+
 <div align="center">
   <p>
     <a href="https://bsky.app/profile/thelazyadministrator.com">
@@ -20,7 +24,10 @@
   </p>
 </div>
 
-## 🤦🏼‍♂️ About Me
+
+
+
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/awkward-smile.gif?raw=true" alt="eye roll" width="50" /> About Me
 
 - 5X [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/3c6509ea-7eb7-ea11-a812-000d3a8dfe0d) in Microsoft Azure and Microsoft 365
 - Co-Organizer of the [Chicago PowerShell Users Group](https://www.meetup.com/meetup-group-qfbaqcoi/)
@@ -38,8 +45,9 @@
   - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
   - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
+ 
 
-### [![pixel_cat_typing](https://cdn3.emoji.gg/emojis/1188-pixel-cat-typing.gif)](https://emoji.gg/emoji/1188-pixel-cat-typing) Programming & Scripting
+### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> Programming & Scripting
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -52,14 +60,14 @@
   </p>
 </div>
 
-## 📕 Latest Blog Posts
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> Latest Blog Posts
 - [Automating Code Compliance: AI-Driven Code Style Enforcement for Pull Requests](https://www.thelazyadministrator.com/2025/01/31/automating-code-compliance-ai-driven-powershell-style-enforcement-for-pull-requests/)
 - [Automated Deployment of a Zero Trust Azure Automation Environment](https://www.thelazyadministrator.com/2024/12/30/automated-deployment-of-a-zero-trust-azure-automation-environment/)
 - [Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps](https://www.thelazyadministrator.com/2024/12/09/automatically-detect-and-prevent-secrets-leaked-into-code-within-azure-devops/)
 - [Leveraging OpenAI to Enhance Pull Request Management in Azure DevOps](https://www.thelazyadministrator.com/2024/06/24/leveraging-openai-to-enhance-pull-request-management-in-azure-devops/)
 
 
-## 📊 GitHub Stats
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/pencil-writing.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500" alt="GitHub Stats" />
@@ -69,10 +77,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwya77&theme=react&card_width=500" alt="bwya77" />
 </div>
 
-## 👥 Visitor Count
-![](https://komarev.com/ghpvc/?username=bwya77&style=flat-square)
 
-## 📫 Get in Touch
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif?raw=true" alt="eye roll" width="50" /> Get in Touch
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bradleywyatt/) or [Telegram](https://t.me/bradwyatt) for collaborations or discussions!
 
 ---
