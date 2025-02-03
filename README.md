@@ -1,3 +1,4 @@
+<h1 align="center">Hi , I'm Bradley Wyatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://www.thelazyadministrator.com/wp-content/uploads/2025/01/nicewall-removebg.png" alt="description of image" width="600">
 </p>
@@ -59,8 +60,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=gotham" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; margin: 0 auto; text-align: center; min-height: 200px; padding: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react" alt="GitHub Stats" style="max-width: 495px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwya77&theme=react" alt="bwya77" style="max-width: 495px;" />
 </div>
 
 ## 👥 Visitor Count
