@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=495" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwya77&theme=react&card_width=495" alt="bwya77" />
+    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=150" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwya77&theme=react&card_width=150" alt="bwya77" />
 </div>
 
 ## 👥 Visitor Count
