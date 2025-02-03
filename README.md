@@ -60,14 +60,14 @@
   </p>
 </div>
 
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> Latest Blog Posts
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/pencil-writing.gif?raw=true" alt="eye roll" width="50" /> Latest Blog Posts
 - [Automating Code Compliance: AI-Driven Code Style Enforcement for Pull Requests](https://www.thelazyadministrator.com/2025/01/31/automating-code-compliance-ai-driven-powershell-style-enforcement-for-pull-requests/)
 - [Automated Deployment of a Zero Trust Azure Automation Environment](https://www.thelazyadministrator.com/2024/12/30/automated-deployment-of-a-zero-trust-azure-automation-environment/)
 - [Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps](https://www.thelazyadministrator.com/2024/12/09/automatically-detect-and-prevent-secrets-leaked-into-code-within-azure-devops/)
 - [Leveraging OpenAI to Enhance Pull Request Management in Azure DevOps](https://www.thelazyadministrator.com/2024/06/24/leveraging-openai-to-enhance-pull-request-management-in-azure-devops/)
 
 
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/pencil-writing.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
+## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%; margin: 0 auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500" alt="GitHub Stats" />
