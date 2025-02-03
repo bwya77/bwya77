@@ -33,6 +33,7 @@
   - [Autofit Tabs](https://github.com/bwya77/autofit-tabs)
   - [Dynamic Editor Width](https://github.com/bwya77/dynamic-editor-width)
   - [Inline Checkbox Groups](https://github.com/bwya77/Inline-Checkbox-Groups)
+  - [AutoShow Scrollbars](https://github.com/bwya77/autoshow-scrollbars)
 - Creator of several PowerShell Modules:
   - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
