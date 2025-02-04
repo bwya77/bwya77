@@ -67,14 +67,12 @@
 
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
+| My GitHub Statistics | Top Languages |
+| --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bwya77&layout=compact&theme=react&width=500) |
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500" alt="GitHub Stats" />
-</div>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bwya77&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; width: 100%; margin: 0 auto;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwya77&theme=react&card_width=500" alt="bwya77" />
-</div>
 
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif?raw=true" alt="eye roll" width="50" /> Get in Touch
