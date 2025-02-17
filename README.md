@@ -41,7 +41,7 @@
   - [Dynamic Editor Width](https://github.com/bwya77/dynamic-editor-width)
   - [Inline Checkbox Groups](https://github.com/bwya77/Inline-Checkbox-Groups)
   - [Autoshow Scrollbars](https://github.com/bwya77/autoshow-scrollbars)
-  - [Nested Folder Lines](https://github.com/bwya77/nested-folder-lines)
+  - [Rainbow Tree](https://github.com/bwya77/rainbow-tree)
 - Creator of several PowerShell Modules:
   - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
