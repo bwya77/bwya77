@@ -48,7 +48,7 @@
   - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
  
 
-### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> Programming & Scripting
+### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -58,6 +58,7 @@
   <p>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&style=for-the-badge&logoColor=white"/>
   </p>
 </div>
 
