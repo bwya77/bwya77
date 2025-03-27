@@ -74,7 +74,7 @@
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
 | My GitHub Statistics | Top Languages |
 | --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bwya77&layout=compact&theme=react&width=500&langs_count=8) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bwya77&layout=compact&theme=react&width=500&langs_count=9) |
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bwya77&theme=react)
 
