@@ -64,6 +64,7 @@
 </div>
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/pencil-writing.gif?raw=true" alt="eye roll" width="50" /> Latest Blog Posts
+- [Detect Modified SharePoint List ITems and Retriece Old Values in SharePoint Using Logic Apps](https://www.thelazyadministrator.com/2025/03/13/detect-modified-columns-and-retrieve-old-values-in-sharepoint-using-logic-apps/)
 - [Automating Code Compliance: AI-Driven Code Style Enforcement for Pull Requests](https://www.thelazyadministrator.com/2025/01/31/automating-code-compliance-ai-driven-powershell-style-enforcement-for-pull-requests/)
 - [Automated Deployment of a Zero Trust Azure Automation Environment](https://www.thelazyadministrator.com/2024/12/30/automated-deployment-of-a-zero-trust-azure-automation-environment/)
 - [Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps](https://www.thelazyadministrator.com/2024/12/09/automatically-detect-and-prevent-secrets-leaked-into-code-within-azure-devops/)
