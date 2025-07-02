@@ -47,6 +47,8 @@
   - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
   - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
+- Creator of one MacOS app:
+  - [DockAnchor](https://github.com/bwya77/DockAnchor/tree/main)
  
 
 ### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
