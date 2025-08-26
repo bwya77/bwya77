@@ -29,7 +29,7 @@
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/awkward-smile.gif?raw=true" alt="eye roll" width="50" /> About Me
 
-- 5X [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/3c6509ea-7eb7-ea11-a812-000d3a8dfe0d) in Microsoft Azure and Microsoft 365
+- 6X [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/3c6509ea-7eb7-ea11-a812-000d3a8dfe0d) in Microsoft Azure and Microsoft 365
 - Co-Organizer of the [Chicago PowerShell Users Group](https://www.meetup.com/meetup-group-qfbaqcoi/)
 - Public Speaker
 - Co-Organizer of the Chicago PowerShell Conference
