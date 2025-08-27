@@ -43,6 +43,7 @@
   - [Autoshow Scrollbars](https://github.com/bwya77/autoshow-scrollbars)
   - [Rainbow Tree](https://github.com/bwya77/rainbow-tree)
   - [Quick Peek Sidebar](https://github.com/bwya77/obsidian-quick-peek-sidebar)
+  - [Open in VSCode](https://github.com/bwya77/obsidian-open-in-vscode)
 - Creator of several PowerShell Modules:
   - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
   - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
