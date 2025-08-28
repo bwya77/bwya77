@@ -50,6 +50,8 @@
   - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
 - Creator of one MacOS app:
   - [DockAnchor](https://github.com/bwya77/DockAnchor/tree/main)
+- Creator of one iOS app:
+  - [Habitual](https://apps.apple.com/vn/app/habitual-build-lasting-habits/id6749281483)
  
 
 ### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
