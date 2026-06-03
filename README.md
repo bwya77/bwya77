@@ -29,11 +29,11 @@
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/awkward-smile.gif?raw=true" alt="eye roll" width="50" /> About Me
 
-- 6X [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/3c6509ea-7eb7-ea11-a812-000d3a8dfe0d) in Microsoft Azure and Microsoft 365
+- Former 6X Dual [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/3c6509ea-7eb7-ea11-a812-000d3a8dfe0d) in Microsoft Azure and Microsoft 365
 - Co-Organizer of the [Chicago PowerShell Users Group](https://www.meetup.com/meetup-group-qfbaqcoi/)
 - Public Speaker
 - Co-Organizer of the Chicago PowerShell Conference
-- Author and Creator of [The Lazy Administrator](https://www.thelazyadministrator.com)
+- Author and Creator of [The Lazy Administrator](https://www.thelazyadministrator.com) & [Windows from Anywhere](https://www.windowsfromanywhere.com)
 - Microsoft Certified Professional
 - Creator of several Obsidian Plugins:
   - [Collapsible Code Blocks](https://github.com/bwya77/collapsible-code-blocks)
@@ -69,22 +69,6 @@
     <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&style=for-the-badge&logoColor=white"/>
   </p>
 </div>
-
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/pencil-writing.gif?raw=true" alt="eye roll" width="50" /> Latest Blog Posts
-- [Detect Modified SharePoint List Items and Retriece Old Values to Compare Using Logic Apps](https://www.thelazyadministrator.com/2025/03/13/detect-modified-columns-and-retrieve-old-values-in-sharepoint-using-logic-apps/)
-- [Automating Code Compliance: AI-Driven Code Style Enforcement for Pull Requests](https://www.thelazyadministrator.com/2025/01/31/automating-code-compliance-ai-driven-powershell-style-enforcement-for-pull-requests/)
-- [Automated Deployment of a Zero Trust Azure Automation Environment](https://www.thelazyadministrator.com/2024/12/30/automated-deployment-of-a-zero-trust-azure-automation-environment/)
-- [Automatically Detect and Prevent Secrets Leaked into Code within Azure DevOps](https://www.thelazyadministrator.com/2024/12/09/automatically-detect-and-prevent-secrets-leaked-into-code-within-azure-devops/)
-- [Leveraging OpenAI to Enhance Pull Request Management in Azure DevOps](https://www.thelazyadministrator.com/2024/06/24/leveraging-openai-to-enhance-pull-request-management-in-azure-devops/)
-
-
-## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/star.gif?raw=true" alt="eye roll" width="50" /> GitHub Stats
-| My GitHub Statistics | Top Languages |
-| --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bwya77&show_icons=true&theme=react&card_width=500) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bwya77&layout=compact&theme=react&width=500&langs_count=9) |
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bwya77&theme=react)
-
 
 
 ## <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/mail-box.gif?raw=true" alt="eye roll" width="50" /> Get in Touch
