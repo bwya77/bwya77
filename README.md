@@ -35,26 +35,7 @@
 - Co-Organizer of the Chicago PowerShell Conference
 - Author and Creator of [The Lazy Administrator](https://www.thelazyadministrator.com) & [Windows from Anywhere](https://www.windowsfromanywhere.com)
 - Microsoft Certified Professional
-- Creator of several Obsidian Plugins:
-  - [Collapsible Code Blocks](https://github.com/bwya77/collapsible-code-blocks)
-  - [Autofit Tabs](https://github.com/bwya77/autofit-tabs)
-  - [Dynamic Editor Width](https://github.com/bwya77/dynamic-editor-width)
-  - [Inline Checkbox Groups](https://github.com/bwya77/Inline-Checkbox-Groups)
-  - [Autoshow Scrollbars](https://github.com/bwya77/autoshow-scrollbars)
-  - [Rainbow Tree](https://github.com/bwya77/rainbow-tree)
-  - [Quick Peek Sidebar](https://github.com/bwya77/obsidian-quick-peek-sidebar)
-  - [Open in VSCode](https://github.com/bwya77/obsidian-open-in-vscode)
-- Creator of several PowerShell Modules:
-  - [PSWordle](https://www.powershellgallery.com/packages/PSWordle/0.0.8)
-  - [PSGlobalEntry](https://www.powershellgallery.com/packages/PSGlobalEntry/1.0.0)
-  - [PSElection](https://www.powershellgallery.com/packages/PSElection/2.0.0.4)
-- Creator of one MacOS app:
-  - [DockAnchor](https://github.com/bwya77/DockAnchor/tree/main)
-- Creator of one iOS app:
-  - [Habitual](https://apps.apple.com/vn/app/habitual-build-lasting-habits/id6749281483)
-- Creator of one VS Code Theme:
-  - [Dark Islands](https://github.com/bwya77/vscode-dark-islands)
- 
+
 
 ### <img src="https://github.com/goforbg/telegram-emoji-gifs/blob/master/guy-with-laptop-1.gif?raw=true" alt="eye roll" width="50" /> 
 <div align="center">
